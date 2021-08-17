@@ -16,7 +16,7 @@ As linguagens utilizadas aqui (javascript, html e css) se aplicam a qualquer ser
 Para rodar no apache e nginx, por exemplo, basta copiar os arquivos de dentro do diretório 
 [<strong>/public</strong>](https://github.com/anarkrypto/upload-files-to-ipfs-from-browser-panel/tree/master/public") para o diretório do seu servidor (por exemplo /var/www/html/).
 
-  [<h2>Demo Online</h2>](https://anarkrypto.github.io/upload-files-to-ipfs-from-browser-panel/public)
+  [<h2>Demo Online</h2>](https://yoyoismee.github.io/ipfs-test/public/)
   
   
   
